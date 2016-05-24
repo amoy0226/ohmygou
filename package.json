@@ -1,6 +1,6 @@
 {
-  "name": "thinkjs-application",
-  "description": "application created by thinkjs",
+  "name": "ohmygou",
+  "description": "ohmygou",
   "version": "1.0.0",
   "scripts": {
     "start": "node www/development.js",
